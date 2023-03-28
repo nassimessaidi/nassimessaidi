@@ -12,11 +12,14 @@ Hey there 👋,<br><br>I'm Nassim Essaidi, a software developer with a passion f
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nassimessaidi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimessaidi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nassimesssaidi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nassimessaidi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nassimessaidi&icon=0&color=1)](https://visitcount.itsvg.in)
