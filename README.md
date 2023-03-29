@@ -19,7 +19,7 @@ Hey there 👋,<br><br>I'm Nassim Essaidi, a software developer with a passion f
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![random memer](https://rm.up.railway.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nassimessaidi&icon=0&color=1)](https://visitcount.itsvg.in)
