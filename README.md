@@ -18,8 +18,6 @@ Hey there 👋,<br><br>I'm Nassim Essaidi, a software developer with a passion f
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-![random memer](https://rm.up.railway.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nassimessaidi&icon=0&color=1)](https://visitcount.itsvg.in)
