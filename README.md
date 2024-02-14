@@ -15,10 +15,6 @@ Hey there 👋,<br><br>I'm Nassim Essaidi, a software developer with a passion f
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nassimessaidi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nassimessaidi&icon=0&color=1)](https://visitcount.itsvg.in)
 
